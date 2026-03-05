@@ -1,7 +1,5 @@
 package features.data;
 
-import org.nissan.Vehicle;
-
 import java.util.ArrayList;
 import java.util.Objects;
 
